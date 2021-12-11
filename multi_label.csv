@@ -1,0 +1,262 @@
+image,labels,armroller,bodyspray,meds,perfume,vaseline
+1 (1).png,"['vaseline', 'armroller', 'meds', 'bodyspray']",1,1,1,0,1
+1 (262).png,"['vaseline', 'armroller', 'meds', 'bodyspray']",1,1,1,0,1
+1 (263).png,"['vaseline', 'armroller', 'meds', 'bodyspray']",1,1,1,0,1
+1 (264).png,"['armroller', 'vaseline', 'meds', 'bodyspray']",1,1,1,0,1
+1 (265).png,"['vaseline', 'armroller', 'meds', 'bodyspray']",1,1,1,0,1
+1 (266).png,"['vaseline', 'armroller', 'meds', 'bodyspray']",1,1,1,0,1
+1 (267).png,"['vaseline', 'armroller', 'bodyspray', 'meds']",1,1,1,0,1
+1 (268).png,"['vaseline', 'armroller', 'bodyspray', 'meds']",1,1,1,0,1
+1 (269).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (270).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (271).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (272).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (273).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (274).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (275).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (276).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (277).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (278).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (279).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (280).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (281).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (282).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (283).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (284).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (285).png,"['vaseline', 'armroller', 'bodyspray', 'meds', 'perfume']",1,1,1,1,1
+1 (286).png,"['vaseline', 'armroller', 'bodyspray', 'perfume']",1,1,0,1,1
+1 (287).png,"['vaseline', 'armroller', 'bodyspray', 'perfume']",1,1,0,1,1
+1 (288).png,"['vaseline', 'armroller', 'perfume']",1,0,0,1,1
+1 (289).png,"['armroller', 'perfume', 'vaseline', 'bodyspray']",1,1,0,1,1
+1 (290).png,"['armroller', 'perfume', 'vaseline', 'bodyspray']",1,1,0,1,1
+1 (291).png,"['armroller', 'perfume', 'bodyspray']",1,1,0,1,0
+1 (292).png,"['armroller', 'perfume', 'bodyspray']",1,1,0,1,0
+1 (293).png,"['armroller', 'perfume', 'bodyspray']",1,1,0,1,0
+1 (294).png,"['armroller', 'perfume']",1,0,0,1,0
+1 (295).png,"['armroller', 'perfume']",1,0,0,1,0
+1 (296).png,"['armroller', 'perfume']",1,0,0,1,0
+1 (297).png,"['armroller', 'perfume']",1,0,0,1,0
+1 (298).png,"['armroller', 'perfume', 'bodyspray']",1,1,0,1,0
+1 (299).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (300).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (301).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (302).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (303).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (304).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (305).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (306).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (307).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (308).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (309).png,"['armroller', 'bodyspray', 'vaseline', 'perfume', 'meds']",1,1,1,1,1
+1 (310).png,"['armroller', 'bodyspray', 'vaseline', 'perfume', 'meds']",1,1,1,1,1
+1 (311).png,"['armroller', 'bodyspray', 'vaseline', 'perfume', 'meds']",1,1,1,1,1
+1 (312).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (313).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (314).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (315).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (316).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (317).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (318).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (319).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (320).png,"['armroller', 'bodyspray', 'vaseline', 'perfume', 'meds']",1,1,1,1,1
+1 (321).png,"['armroller', 'bodyspray', 'vaseline', 'perfume', 'meds']",1,1,1,1,1
+1 (322).png,"['armroller', 'bodyspray', 'vaseline', 'perfume', 'meds']",1,1,1,1,1
+1 (323).png,"['armroller', 'bodyspray', 'vaseline', 'perfume', 'meds']",1,1,1,1,1
+1 (324).png,"['armroller', 'bodyspray', 'vaseline', 'perfume', 'meds']",1,1,1,1,1
+1 (325).png,"['armroller', 'bodyspray', 'vaseline', 'meds', 'perfume']",1,1,1,1,1
+1 (326).png,"['armroller', 'bodyspray', 'vaseline', 'meds', 'perfume']",1,1,1,1,1
+1 (327).png,"['armroller', 'bodyspray', 'vaseline', 'meds', 'perfume']",1,1,1,1,1
+1 (328).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (329).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (330).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (331).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (332).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (333).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (334).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (335).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (336).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (337).png,"['armroller', 'bodyspray', 'vaseline', 'perfume']",1,1,0,1,1
+1 (338).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (339).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (340).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (341).png,"['vaseline', 'bodyspray', 'meds']",0,1,1,0,1
+1 (342).png,"['bodyspray', 'meds', 'vaseline']",0,1,1,0,1
+1 (343).png,"['bodyspray', 'meds', 'vaseline']",0,1,1,0,1
+1 (344).png,"['bodyspray', 'meds', 'vaseline']",0,1,1,0,1
+1 (345).png,"['armroller', 'bodyspray', 'meds', 'vaseline']",1,1,1,0,1
+1 (346).png,"['armroller', 'bodyspray', 'meds', 'vaseline']",1,1,1,0,1
+1 (347).png,"['armroller', 'bodyspray', 'meds', 'vaseline']",1,1,1,0,1
+1 (348).png,"['armroller', 'bodyspray', 'meds', 'vaseline', 'perfume']",1,1,1,1,1
+1 (349).png,"['armroller', 'bodyspray', 'meds', 'vaseline', 'perfume']",1,1,1,1,1
+1 (350).png,"['armroller', 'bodyspray', 'meds', 'vaseline', 'perfume']",1,1,1,1,1
+1 (351).png,"['meds', 'vaseline', 'armroller', 'bodyspray', 'perfume']",1,1,1,1,1
+1 (352).png,"['armroller', 'bodyspray', 'meds', 'vaseline', 'perfume']",1,1,1,1,1
+1 (353).png,"['armroller', 'bodyspray', 'meds', 'vaseline', 'perfume']",1,1,1,1,1
+1 (354).png,"['armroller', 'bodyspray', 'meds', 'vaseline', 'perfume']",1,1,1,1,1
+1 (355).png,"['armroller', 'bodyspray', 'meds', 'vaseline', 'perfume']",1,1,1,1,1
+1 (356).png,"['armroller', 'bodyspray', 'meds', 'vaseline', 'perfume']",1,1,1,1,1
+1 (357).png,"['armroller', 'bodyspray', 'meds', 'vaseline', 'perfume']",1,1,1,1,1
+1 (358).png,"['armroller', 'bodyspray', 'meds', 'vaseline']",1,1,1,0,1
+1 (359).png,"['armroller', 'bodyspray', 'meds', 'vaseline']",1,1,1,0,1
+1 (360).png,"['armroller', 'bodyspray', 'meds', 'vaseline']",1,1,1,0,1
+1 (361).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (362).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (363).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (364).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (365).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (366).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (367).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (368).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (369).png,"['perfume', 'armroller', 'vaseline']",1,0,0,1,1
+1 (370).png,"['perfume', 'armroller', 'vaseline']",1,0,0,1,1
+1 (371).png,"['perfume', 'armroller', 'vaseline']",1,0,0,1,1
+1 (372).png,"['perfume', 'armroller', 'vaseline']",1,0,0,1,1
+1 (373).png,"['perfume', 'armroller', 'vaseline']",1,0,0,1,1
+1 (374).png,"['perfume', 'armroller', 'vaseline']",1,0,0,1,1
+1 (375).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (376).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (377).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (378).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (379).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (380).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (381).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (382).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (383).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (384).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (385).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (386).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (387).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (388).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (389).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (390).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (391).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (392).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (393).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (394).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (395).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (396).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (397).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (398).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (399).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (400).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (401).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (402).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (403).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (404).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (405).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (406).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (407).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (408).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (409).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (410).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (411).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (412).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (413).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (414).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (415).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (416).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (417).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (418).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (419).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (420).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (421).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (422).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (423).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (424).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (425).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (426).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (427).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (428).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (429).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (430).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (431).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (432).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (433).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (434).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (435).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (436).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (437).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (438).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (439).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (440).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (441).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (442).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (443).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (444).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (445).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (446).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (447).png,"['perfume', 'meds', 'armroller', 'vaseline', 'bodyspray']",1,1,1,1,1
+1 (448).png,"['perfume', 'meds', 'armroller', 'vaseline', 'bodyspray']",1,1,1,1,1
+1 (449).png,"['perfume', 'meds', 'armroller', 'vaseline', 'bodyspray']",1,1,1,1,1
+1 (450).png,"['perfume', 'meds', 'armroller', 'vaseline', 'bodyspray']",1,1,1,1,1
+1 (451).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (452).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (453).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (454).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (455).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (456).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (457).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (458).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (459).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (460).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (461).png,"['meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,0,1
+1 (462).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (463).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (464).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (465).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (466).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (467).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (468).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (469).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (470).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (471).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (472).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (473).png,"['meds', 'vaseline']",0,0,1,0,1
+1 (474).png,"['meds', 'vaseline']",0,0,1,0,1
+1 (475).png,"['meds', 'vaseline']",0,0,1,0,1
+1 (476).png,"['meds', 'vaseline']",0,0,1,0,1
+1 (477).png,"['meds', 'vaseline']",0,0,1,0,1
+1 (478).png,"['meds', 'vaseline']",0,0,1,0,1
+1 (479).png,"['meds', 'vaseline']",0,0,1,0,1
+1 (480).png,"['meds', 'vaseline']",0,0,1,0,1
+1 (481).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (482).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (483).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (484).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (485).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (486).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (487).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (488).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (489).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (490).png,"['meds', 'bodyspray', 'vaseline']",0,1,1,0,1
+1 (491).png,"['perfume', 'meds', 'bodyspray', 'armroller']",1,1,1,1,0
+1 (492).png,"['perfume', 'meds', 'bodyspray', 'armroller', 'vaseline']",1,1,1,1,1
+1 (493).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (494).png,"['perfume', 'armroller', 'vaseline']",1,0,0,1,1
+1 (495).png,"['perfume', 'armroller', 'vaseline']",1,0,0,1,1
+1 (496).png,"['perfume', 'armroller', 'vaseline']",1,0,0,1,1
+1 (497).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (498).png,"['perfume', 'bodyspray', 'armroller']",1,1,0,1,0
+1 (499).png,"['perfume', 'bodyspray', 'armroller']",1,1,0,1,0
+1 (500).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (501).png,"['perfume', 'bodyspray', 'armroller', 'vaseline']",1,1,0,1,1
+1 (502).png,"['perfume', 'armroller', 'vaseline']",1,0,0,1,1
+1 (503).png,"['perfume', 'armroller', 'vaseline']",1,0,0,1,1
+1 (504).png,"['bodyspray', 'perfume', 'armroller', 'vaseline']",1,1,0,1,1
+1 (505).png,"['bodyspray', 'perfume', 'vaseline']",0,1,0,1,1
+1 (506).png,"['bodyspray', 'perfume', 'vaseline']",0,1,0,1,1
+1 (507).png,"['bodyspray', 'perfume', 'vaseline']",0,1,0,1,1
+1 (508).png,"['bodyspray', 'perfume', 'vaseline']",0,1,0,1,1
+1 (509).png,"['bodyspray', 'perfume', 'vaseline']",0,1,0,1,1
+1 (510).png,"['armroller', 'bodyspray', 'perfume', 'vaseline']",1,1,0,1,1
+1 (511).png,"['perfume', 'vaseline']",0,0,0,1,1
+1 (512).png,"['perfume', 'vaseline']",0,0,0,1,1
+1 (513).png,"['perfume', 'vaseline']",0,0,0,1,1
+1 (514).png,"['perfume', 'vaseline']",0,0,0,1,1
+1 (515).png,"['bodyspray', 'perfume', 'vaseline']",0,1,0,1,1
+1 (516).png,"['bodyspray', 'perfume', 'vaseline']",0,1,0,1,1
+1 (517).png,"['armroller', 'bodyspray', 'perfume', 'vaseline']",1,1,0,1,1
+1 (518).png,"['armroller', 'bodyspray', 'perfume', 'vaseline']",1,1,0,1,1
+1 (519).png,"['armroller', 'bodyspray', 'perfume']",1,1,0,1,0
+1 (520).png,"['armroller', 'bodyspray', 'vaseline', 'perfume', 'meds']",1,1,1,1,1
+1 (521).png,"['armroller', 'bodyspray', 'vaseline', 'meds', 'perfume']",1,1,1,1,1
